@@ -1,9 +1,11 @@
 # React Template
 
 ## Introduction
+
 This is a project template based on **React**, utilizing **React**, **React Router**, and **MobX** as the core tech stack, and **Vite** as the build tool. The project also integrates **ESLint** and **Prettier** for code formatting and quality checks, with **TypeScript** support. The package manager used is **pnpm**.
 
 ## Features
+
 - **React**: For building user interfaces.
 - **React Router**: For managing application routes.
 - **MobX**: As the state management library.
@@ -15,26 +17,31 @@ This is a project template based on **React**, utilizing **React**, **React Rout
 ## Usage
 
 ### Install Dependencies
+
 ```bash
 pnpm install
 ```
 
 ### Development
+
 ```bash
 pnpm start
 ```
 
 ### Preview Build
+
 ```bash
 pnpm preview
 ```
 
 ### Production Build
+
 ```bash
 pnpm build
 ```
 
 ### Code Linting and Formatting
+
 ```bash
 pnpm lint
 ```
