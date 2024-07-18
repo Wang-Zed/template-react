@@ -27,7 +27,6 @@ const buildTime = new Intl.DateTimeFormat("zh-CN", {
 }).format(new Date());
 
 export default defineConfig({
-  base: "./",
   build: {
     outDir: "dist",
     rollupOptions: {
